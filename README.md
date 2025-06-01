@@ -56,9 +56,6 @@
     <img src="https://streak-stats.demolab.com/?user=Tempestosoh&theme=purple-dark" alt="GitHub streak" />
   </a>
   <br>
-  <a href="https://github.com/Tempestosoh">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tempestosoh&theme=react-dark&area=true" alt="GitHub activity graph" />
-  </a>
 </p>
 
 </p>
