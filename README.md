@@ -51,11 +51,6 @@
   <a href="https://github.com/Tempestosoh">
     <img src="https://komarev.com/ghpvc/?username=Tempestosoh&color=8b5cf6&style=flat" alt="Profile views" />
   </a>
-  <br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Tempestosoh&theme=purple-dark" alt="GitHub streak" />
-  </a>
-  <br>
 </p>
 
 </p>
