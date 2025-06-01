@@ -13,7 +13,7 @@
 
 - 🎨 **UI/UX lover**, amante del design pulito e funzionale  
 - 🧠 Curioso per natura, **full stack developer** autodidatta  
-- 🔧 Creatore di [**Apocaliss**](https://discord.gg/), un bot Discord multifunzione  
+- 🔧 Creatore del sito web di [**Apocaliss**]([https://discord.gg/](https://tempestosoh.github.io/apocaliss/hpage.html)), un bot Discord multifunzione  
 - 📬 Contattami per collaborazioni, idee o solo per fare due chiacchiere!
 
 ---
@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="mailto:tempestosoh@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.gg/users/1124418562761695253"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://tempestosoh.github.io/portfolio/homepage.html"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
