@@ -44,6 +44,16 @@
 
 ---
 
+### 📊 Statistiche Avanzate
+
+<p align="center">
+  [![Profile Views](https://komarev.com/ghpvc/?username=Tempestosoh&color=8b5cf6&style=flat)](https://github.com/Tempestosoh)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Tempestosoh&theme=purple-dark)](https://git.io/streak-stats)
+  [![Tempestosoh's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tempestosoh&theme=react-dark&area=true)](https://github.com/Tempestosoh)
+</p>
+
+---
+
 ### 💼 Portfolio & Progetti
 
 - 🌐 [**Portfolio ufficiale**](https://tempestosoh.github.io/portfolio/homepage.html)
