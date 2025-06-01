@@ -56,10 +56,12 @@
 
 <p align="center">
   <a href="mailto:tempestosoh@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discord.gg/users/1124418562761695253"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.com/users/1124418562761695253"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://tempestosoh.github.io/portfolio/homepage.html"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">✨ _Coding. Creating. Improving. Repeat._ ✨</p>
+<p align="center">✨ Coding. Creating. Improving. Repeat. ✨</p>
+
+
